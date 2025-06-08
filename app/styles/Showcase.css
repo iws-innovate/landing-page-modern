@@ -1,0 +1,19 @@
+.showcase-container {
+  padding: 80px 20px;
+  background-color: #111;
+  color: white;
+  text-align: center;
+}
+
+.showcase-container h2 {
+  font-size: 2.2rem;
+  margin-bottom: 40px;
+  font-family: 'Manrope', sans-serif;
+}
+
+.mockup img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(255, 0, 128, 0.2);
+}

@@ -1,0 +1,34 @@
+.benefits-section {
+  background-color: #000;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.benefits-section h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  font-family: 'Manrope', sans-serif;
+}
+
+.benefits-section ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.benefits-section li {
+  background-color: #111;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  box-shadow: 0 0 10px rgba(255, 0, 128, 0.1);
+}
+
+.emoji {
+  font-size: 1.5rem;
+  margin-right: 10px;
+}
