@@ -23,5 +23,4 @@ Abra em http://localhost:3000
 
 ## 📲 Quer ajuda com customização ou publicação?
 Este template foi criado pela Innovate.
-Entre em contato pelo WhatsApp: https://wa.me/
-
+Entre em contato sales@innovasolutions.dev
